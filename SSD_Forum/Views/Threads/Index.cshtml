@@ -1,0 +1,41 @@
+﻿@model IEnumerable<SSD_Forum.Models.Thread>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Posts</h1>
+
+<p>
+    <a asp-action="Create">Create New Thread</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UserWhoUploaded)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateUploaded)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserWhoUploaded)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.ThreadId">@Html.DisplayFor(modelItem => item.Title)</a>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateUploaded)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

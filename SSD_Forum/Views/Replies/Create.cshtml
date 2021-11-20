@@ -1,0 +1,31 @@
+﻿@model SSD_Forum.Models.Reply
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Reply</h1>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Content" class="control-label"></label>
+                <textarea rows="20" asp-for="Content" class="form-control"></textarea>
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+            <!--<div class="form-group">
+                <select asp-for="OriginPost" class="form-control" asp-items="ViewBag.OriginId"></select>
+            </div>-->
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

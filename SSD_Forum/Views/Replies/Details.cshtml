@@ -1,0 +1,42 @@
+﻿@model SSD_Forum.Models.Reply
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Reply</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Content)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Content)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserWhoReplied)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserWhoReplied)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.OriginPost)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.OriginPost)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DateReplied)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DateReplied)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ReplyId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

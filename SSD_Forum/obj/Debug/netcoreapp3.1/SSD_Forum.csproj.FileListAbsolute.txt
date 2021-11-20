@@ -1,0 +1,727 @@
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.StaticWebAssets.xml
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.exe
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.deps.json
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.runtimeconfig.json
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.runtimeconfig.dev.json
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.pdb
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.Views.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.Views.pdb
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.csproj.AssemblyReference.cache
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.AssemblyInfoInputs.cache
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.AssemblyInfo.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.csproj.CoreCompileInputs.cache
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorAssemblyInfo.cache
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorAssemblyInfo.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\staticwebassets\SSD_Forum.StaticWebAssets.Manifest.cache
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\staticwebassets\SSD_Forum.StaticWebAssets.xml
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\scopedcss\bundle\SSD_Forum.styles.css
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.TagHelpers.input.cache
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.TagHelpers.output.cache
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorCoreGenerate.cache
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorTargetAssemblyInfo.cache
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorTargetAssemblyInfo.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.Views.pdb
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.csproj.CopyComplete
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.pdb
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.genruntimeconfig.cache
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Create.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Delete.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Details.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Edit.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Index.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Create.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Delete.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Details.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Edit.cshtml.g.cs
+C:\Users\naksh\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Index.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.StaticWebAssets.xml
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.exe
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.deps.json
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.runtimeconfig.json
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.runtimeconfig.dev.json
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.pdb
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.Views.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.Views.pdb
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.csproj.AssemblyReference.cache
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.AssemblyInfoInputs.cache
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.AssemblyInfo.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.csproj.CoreCompileInputs.cache
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorAssemblyInfo.cache
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorAssemblyInfo.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\staticwebassets\SSD_Forum.StaticWebAssets.Manifest.cache
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\staticwebassets\SSD_Forum.StaticWebAssets.xml
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\scopedcss\bundle\SSD_Forum.styles.css
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.TagHelpers.input.cache
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.TagHelpers.output.cache
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorCoreGenerate.cache
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Create.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Delete.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Details.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Edit.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Index.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Create.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Delete.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Details.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Edit.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Index.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorTargetAssemblyInfo.cache
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorTargetAssemblyInfo.cs
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.Views.pdb
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.csproj.CopyComplete
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.dll
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.pdb
+C:\Users\Adela\Documents\SSD\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.genruntimeconfig.cache
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.StaticWebAssets.xml
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.exe
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.deps.json
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.runtimeconfig.json
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.runtimeconfig.dev.json
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.pdb
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.Views.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.Views.pdb
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.csproj.AssemblyReference.cache
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.AssemblyInfoInputs.cache
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.AssemblyInfo.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.csproj.CoreCompileInputs.cache
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorAssemblyInfo.cache
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorAssemblyInfo.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\staticwebassets\SSD_Forum.StaticWebAssets.Manifest.cache
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\staticwebassets\SSD_Forum.StaticWebAssets.xml
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\scopedcss\bundle\SSD_Forum.styles.css
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.TagHelpers.input.cache
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.TagHelpers.output.cache
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorCoreGenerate.cache
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Create.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Delete.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Edit.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Create.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Delete.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Details.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Edit.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Index.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorTargetAssemblyInfo.cache
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorTargetAssemblyInfo.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.Views.pdb
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.csproj.CopyComplete
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.dll
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.pdb
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.genruntimeconfig.cache
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Details.cshtml.g.cs
+C:\Users\Adela\source\repos\Secure Software Dev Forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Index.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.StaticWebAssets.xml
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.exe
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.deps.json
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.runtimeconfig.json
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.runtimeconfig.dev.json
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.pdb
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.Views.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\SSD_Forum.Views.pdb
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.csproj.AssemblyReference.cache
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.AssemblyInfoInputs.cache
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.AssemblyInfo.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.csproj.CoreCompileInputs.cache
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorAssemblyInfo.cache
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorAssemblyInfo.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\staticwebassets\SSD_Forum.StaticWebAssets.Manifest.cache
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\staticwebassets\SSD_Forum.StaticWebAssets.xml
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\scopedcss\bundle\SSD_Forum.styles.css
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.TagHelpers.input.cache
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.TagHelpers.output.cache
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorCoreGenerate.cache
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Create.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Delete.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Details.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Edit.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Replies\Index.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Create.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Delete.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Details.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Edit.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\Threads\Index.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorTargetAssemblyInfo.cache
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.RazorTargetAssemblyInfo.cs
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.Views.pdb
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.csproj.CopyComplete
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.dll
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.pdb
+C:\Users\Kurtis\Desktop\SSD_forum\SSD_Forum\obj\Debug\netcoreapp3.1\SSD_Forum.genruntimeconfig.cache

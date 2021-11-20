@@ -1,0 +1,62 @@
+﻿@model SSD_Forum.Models.Thread
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@Html.DisplayFor(model => model.Title)</h1>
+
+<div>
+    <h4>Posted By: @Html.DisplayFor(model => model.UserWhoUploaded)</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DateUploaded)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DateUploaded)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Content)
+        </dt>
+
+        <dd class="col-sm-12">@Html.DisplayFor(model => model.Content)</dd>
+
+
+    </dl>
+</div>
+<div>
+    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@Model.ThreadId">Edit</a> |
+    <a class="btn btn-primary" asp-action="Index">Back to List</a> |
+    <a class="btn btn-primary" asp-controller="Replies" asp-action="Create" asp-route-id="@Model.ThreadId">Reply</a> |
+    <a class="btn btn-primary" asp-action="Delete" asp-route-id="@Model.ThreadId">Delete</a>
+</div>
+
+<table class="table">
+    <tbody>
+        <thead>
+            <th>Replied By</th>
+            <th>Date</th>
+            <th>Content</th>
+        </thead>
+    @foreach (var item in Model.Replies)
+    {
+
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserWhoReplied)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateReplied)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Content)
+            </td>
+            <td>
+                <a class="btn btn-primary" asp-controller="Replies" asp-action="Edit" asp-route-id="@item.ReplyId">Edit</a> |
+                <a class="btn btn-primary" asp-controller="Replies" asp-action="Delete" asp-route-id="@item.ReplyId">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
