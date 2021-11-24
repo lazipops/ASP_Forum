@@ -6,5 +6,5 @@ It's not perfect and may have some security flaws, but I encourage you to take a
 - eggysauce#3726 (also for creating the tutorial video)
 - Nakshi#2726 (for helping Martin with creating The World)
 - and Mintmaru#2717 (for being the main dev who did most of the coding on this)
-- and me I guess lol I just made this public repo and a private one for all of to work off of
+- and me I guess lol I just made this public repo and a private one for all of us to work off of
 
